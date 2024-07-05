@@ -1,9 +1,8 @@
-Hello and thank you for wanting to contribute to the MagicMirror project
+Hello and thank you for wanting to contribute to the MagicMirror² project
 
 **Please make sure that you have followed these 4 rules before submitting your Pull Request:**
 
 > 1. Base your pull requests against the `develop` branch.
->
 > 2. Include these infos in the description:
 >
 > - Does the pull request solve a **related** issue?
@@ -13,7 +12,6 @@ Hello and thank you for wanting to contribute to the MagicMirror project
 >
 > 3. Please run `npm run lint:prettier` before submitting so that
 >    style issues are fixed.
->
 > 4. Don't forget to add an entry about your changes to
 >    the CHANGELOG.md file.
 

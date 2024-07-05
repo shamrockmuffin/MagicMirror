@@ -1,8 +1,3 @@
-/* Magic Mirror Test config current weather compliments
- *
- * By rejas https://github.com/rejas
- * MIT Licensed.
- */
 let config = {
 	modules: [
 		{

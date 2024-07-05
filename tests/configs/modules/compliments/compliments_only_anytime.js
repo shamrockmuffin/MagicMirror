@@ -1,8 +1,3 @@
-/* Magic Mirror Test config compliments with anytime type
- *
- * By Rodrigo Ramírez Norambuena https://rodrigoramirez.com
- * MIT Licensed.
- */
 let config = {
 	timeFormat: 12,
 

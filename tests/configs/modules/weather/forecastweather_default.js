@@ -1,8 +1,3 @@
-/* Magic Mirror Test config default weather
- *
- * By fewieden https://github.com/fewieden
- * MIT Licensed.
- */
 let config = {
 	timeFormat: 12,
 

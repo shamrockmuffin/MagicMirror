@@ -1,6 +1,8 @@
 {
 	"LOADING": "טוען...",
 
+	"DAYBEFOREYESTERDAY": "שלשום",
+	"YESTERDAY": "אתמול",
 	"TODAY": "היום",
 	"TOMORROW": "מחר",
 	"DAYAFTERTOMORROW": "בעוד יומיים",
@@ -26,9 +28,9 @@
 	"NNW": "צ-צ-מע",
 
 	"FEELS": "מרגיש כמו {DEGREE}",
-	"PRECIP": "משקעים",
+	"PRECIP_POP": "משקעים",
 
-	"UPDATE_NOTIFICATION": "עדכון זמין ל-MagicMirror",
+	"UPDATE_NOTIFICATION": "עדכון זמין ל-MagicMirror²",
 	"UPDATE_NOTIFICATION_MODULE": "עדכון זמין ב-{MODULE_NAME} מודול",
 	"UPDATE_INFO_SINGLE": "ההתקנה הנוכחית נמצאת מאחור הענף {BRANCH_NAME} ב-{COMMIT_COUNT} מופע",
 	"UPDATE_INFO_MULTIPLE": "ההתקנה הנוכחית נמצאת מאחור הענף {BRANCH_NAME} ב-{COMMIT_COUNT} מופעים"

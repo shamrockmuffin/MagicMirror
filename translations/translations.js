@@ -1,10 +1,3 @@
-/* Magic Mirror
- * Translation Definition
- *
- * By Michael Teeuw https://michaelteeuw.nl
- * MIT Licensed.
- */
-
 let translations = {
 	en: "translations/en.json", // English
 	nl: "translations/nl.json", // Dutch
@@ -48,7 +41,8 @@ let translations = {
 	hi: "translations/hi.json", // Hindi
 	gu: "translations/gu.json", // Gujarati
 	gl: "translations/gl.json", // Galego
-	lt: "translations/lt.json" // Lithuanian
+	lt: "translations/lt.json", // Lithuanian
+	th: "translations/th.json" // Thai
 };
 
 if (typeof module !== "undefined") {

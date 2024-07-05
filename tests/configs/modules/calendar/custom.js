@@ -1,8 +1,3 @@
-/* Magic Mirror Test config custom calendar
- *
- * By Rejas
- * MIT Licensed.
- */
 let config = {
 	timeFormat: 12,
 
@@ -11,14 +6,16 @@ let config = {
 			module: "calendar",
 			position: "bottom_bar",
 			config: {
+				customEvents: [{ keyword: "CustomEvent", symbol: "dice", eventClass: "undo" }],
+				forceUseCurrentTime: true,
 				calendars: [
 					{
-						maximumEntries: 4,
+						maximumEntries: 5,
 						maximumNumberOfDays: 10000,
 						symbol: "birthday-cake",
 						fullDaySymbol: "calendar-day",
 						recurringSymbol: "undo",
-						url: "http://localhost:8080/tests/configs/data/calendar_test_icons.ics"
+						url: "http://localhost:8080/tests/mocks/calendar_test_icons.ics"
 					}
 				]
 			}
